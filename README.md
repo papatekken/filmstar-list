@@ -4,7 +4,6 @@
 ![license](https://img.shields.io/github/license/papatekken/filmstar-list)
 ![ReactJS](https://img.shields.io/badge/react-17.0.2-blue)
 
-
 - Display Master Detail list by React JS reading JSON file
 
 - Project for self learning React JS
