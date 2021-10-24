@@ -1,7 +1,7 @@
 # Filmstar list
 
 ![Version](https://img.shields.io/badge/version-0.1-orange)
-![license](https://img.shields.io/github/license/papatekken/filmstar-list)
+![license](https://img.shields.io/github/license/papatekken/coman)
 ![ReactJS](https://img.shields.io/badge/react-17.0.2-blue)
 
 - Display Master Detail list by React JS reading JSON file
