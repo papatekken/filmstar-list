@@ -29,14 +29,14 @@ The program read in a JSON file that contains dummy information of filmStars, an
     
 6) The demo site should appear in browser itself
 
-## License
-[GNU AGPLv3](https://github.com/papatekken/filmstar-list/blob/main/LICENSE)
+##License
+[GNU AGPLv3](https://github.com/papatekken/filmstar-list/blob/master/LICENSE)
 
 ##Attribution
 - png files are generated from https://face.co/
 - Nero charts library applied https://nivo.rocks/
 
-## Contact
+##Contact
 Created by [@papatekken](papatekken@gmail.com) - feel free to contact me!
 
 
